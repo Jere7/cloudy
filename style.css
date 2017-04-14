@@ -33,11 +33,23 @@ body {
 }
 
 .head {
-    background: url(../images/Utchiha.png);
+    background: url(../images/Utchiha.png) no-repeat 70%;
     display: block;
     margin: auto;
     width: 70%;
 }
 hr {
-    margin-top: 130px;
+    margin-top: 230px;
+}
+
+.days {
+    text-align: center;
+}
+
+.monday-degre {
+    float: left;
+}
+
+.tuesday-degre {
+    float: right;
 }
