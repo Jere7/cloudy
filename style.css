@@ -5,8 +5,8 @@ body {
     background: black;
     font-family: 'Source Sans Pro';
     width: 100%;  
-    padding-left: 220px;
-    margin: 40px;
+    padding-left: 260px;
+    margin: 60px auto;
     
 }
 
@@ -20,9 +20,10 @@ body {
 }
 
 .container {
-        display: block;
+        
         background: lightblue;
         width: 30%;
+        height: 50%;
         padding-bottom: 200px;
         border: 2px solid burlywood;
         border-radius: 50px;
@@ -32,9 +33,11 @@ body {
 }
 
 .head {
-    background: url(../images/Utchiha.png) no-repeat center;
+    background: url(../images/Utchiha.png);
     display: block;
     margin: auto;
     width: 70%;
-    height: 180px;
+}
+hr {
+    margin-top: 130px;
 }
