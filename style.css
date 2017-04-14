@@ -31,7 +31,11 @@ body {
 }
 
 .head {
+    
     margin: auto;
-    width: 50%;
+    width: 70%;
     padding: 10px;
+}
+hr {
+    margin-top: 130px;
 }
