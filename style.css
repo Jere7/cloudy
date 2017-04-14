@@ -23,7 +23,7 @@ body {
         display: block;
         background: lightblue;
         width: 30%;
-        padding-bottom: 180px;
+        padding-bottom: 200px;
         border: 2px solid burlywood;
         border-radius: 50px;
         margin: auto;
@@ -32,12 +32,9 @@ body {
 }
 
 .head {
-    background-image: url('../images/Utchiha.png');
+    background: url(../images/Utchiha.png) no-repeat center;
     display: block;
     margin: auto;
     width: 70%;
-    padding: 20px;
-}
-hr {
-    margin-top: 120px;
+    height: 180px;
 }
