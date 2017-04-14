@@ -25,7 +25,7 @@ body {
  }
 
  .container {
-    background: lightcyan;
+    background:#fff;
     width: 35%;
     height: 65%;
     padding-bottom: 200px;
@@ -41,6 +41,9 @@ body {
     width: 90%;
     height: 90%;
     padding-top: 35px;
+    padding-left: 35px;
+    border-radius: 30px;
+    color:darkslateblue;
  }
  h1 {
      height: 70px;
@@ -69,16 +72,23 @@ body {
 
  .days {
     padding: 40px 30px 0px 30px;
-
-    
  }
+
 
  .monday {
     float: left;
-    font-size: 1.2em;
+    font-size: 1.8em;
  }
  
   .tuesday {
     float: right;
-    font-size: 1.2em;
+    font-size: 1.5em;
+}
+
+span {
+    color: grey;
+}
+
+.grey {
+    color:lightgrey;
 }
