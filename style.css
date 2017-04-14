@@ -16,26 +16,28 @@ body {
     width: 70%;
     height: 700px;
     border-radius: 50px;
-    padding-top: 100px;
+    padding-top: 90px;
 }
 
 .container {
         display: block;
         background: lightblue;
         width: 30%;
-        height: 500px;
+        padding-bottom: 180px;
         border: 2px solid burlywood;
         border-radius: 50px;
         margin: auto;
         
+        
 }
 
 .head {
-    
+    background-image: url('../images/Utchiha.png');
+    display: block;
     margin: auto;
     width: 70%;
-    padding: 10px;
+    padding: 20px;
 }
 hr {
-    margin-top: 130px;
+    margin-top: 120px;
 }
