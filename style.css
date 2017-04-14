@@ -1,0 +1,34 @@
+
+
+
+body {
+    background: black;
+    font-family: 'Source Sans Pro';
+    width: 100%;  
+    padding-left: 220px;
+    margin: 40px;
+    
+}
+
+.font {
+    background: #fff;
+    text-align: center;
+    width: 70%;
+    height: 800px;
+    border-radius: 50px;
+}
+
+.container {
+        display: block;
+        background: lightblue;
+        width: 30%;
+        height: 500px;
+        border: 2px solid burlywood;
+        border-radius: 50px;
+        flo
+
+}
+
+h1 {
+
+}
