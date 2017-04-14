@@ -7,49 +7,46 @@ body {
     width: 100%;  
     padding-left: 260px;
     margin: 60px auto;
-    
-}
+ }
 
-.font {
+ .font {
     background: #fff;
     float: left;
     width: 70%;
     height: 700px;
     border-radius: 50px;
     padding-top: 90px;
-}
+ }
 
-.container {
-        
-        background: lightblue;
-        width: 30%;
-        height: 50%;
-        padding-bottom: 200px;
-        border: 2px solid burlywood;
-        border-radius: 50px;
-        margin: auto;
-        
-        
-}
+ .container {
+    background: lightblue;
+    width: 30%;
+    height: 50%;
+    padding-bottom: 200px;
+    border: 2px solid burlywood;
+    border-radius: 50px;
+    margin: auto;
+ }
 
-.head {
+ .head {
     background: url(../images/Utchiha.png) no-repeat 70%;
     display: block;
     margin: auto;
     width: 70%;
-}
-hr {
+ }
+
+ hr {
     margin-top: 230px;
-}
+ }
 
-.days {
+ .days {
     text-align: center;
-}
+ }
 
-.monday-degre {
+ .monday-degre {
     float: left;
-}
-
-.tuesday-degre {
+ }
+ 
+  .tuesday-degre {
     float: right;
 }
