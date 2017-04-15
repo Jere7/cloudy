@@ -15,26 +15,27 @@ body {
     background: #fff;
     float: left;
     width: 65%;
-    height: 700px;
-    border-radius: 30px;
+    height: 750px;
+    border-radius: 70px;
     padding-top: 30px;
     padding-left: 20px;
  }
+
  img {
      position: relative;
      left: 30px;
-     top: 750px;
-     
+     top: 700px;    
  }
 
  .container {
     background:#fff;
-    width: 30%;
-    height: 55%;
+    width: 35%;
+    height: 60%;
     padding-bottom: 180px;
     border: 2px solid burlywood;
-    border-radius: 10px;
+    border-radius: 50px;
     margin: auto;
+    box-shadow: 5px 5px 5px beige;
  }
 
  .head {
@@ -48,12 +49,20 @@ body {
     color:darkslateblue;
     margin: auto;
  }
+
  h1 {
-     height: 70px;
+     height: 20px;
      font-size: 4.4em;
      width: 100%;
      display: block;
  }
+
+ sub {
+    display: inline-block;
+    padding: 10px ;  
+    
+ }
+
  h3 {
      display: block;
      margin:0 auto;
@@ -73,7 +82,7 @@ body {
  }
 
  .days {
-    padding: 20px 30px 0px 30px;
+    padding: 10px 30px 0px 30px;
  }
 
 
