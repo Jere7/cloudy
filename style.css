@@ -1,9 +1,7 @@
 
-
-
 body {
     background: black;
-    font-family:'Times New Roman', Times, serif;
+    font-family: Times, serif;
     width: 100%;  
     padding-left: 280px;
     display: block;
@@ -14,15 +12,15 @@ body {
     background: #fff;
     float: left;
     width: 65%;
-    height: 710px;
-    padding-top: 30px;
+    height: 730px;
+    padding-top: 40px;
     padding-left: 20px;
  }
 
  img {
      position: relative;
-     left: 30px;
-     top: 640px;    
+     left: 20px;
+     top: 660px;    
  }
 
  .container {
@@ -38,9 +36,9 @@ body {
  }
 
  .head {
-    width: 90%;
+    width: 92%;
     height: 85%;
-    padding-top: 30px;
+    padding-top: 10px;
     padding-left: 35px;  
     border-radius: 20px; 
     -webkit-box-shadow: inset -3px -76px 300px 24px rgba(250,225,250,1);
@@ -49,7 +47,7 @@ body {
  }
 
  h1 {
-     height: 20px;
+     height: 15px;
      font-size: 4.4em;
      width: 100%;
      display: block;
@@ -65,16 +63,16 @@ body {
  
  h3 {
      display: block;
-     margin:0 auto;
+     margin: 0 auto;
      font-size: 1.3em;
      color: slateblue;
  }
  
  h2 {
      display: block;
-     margin:0 auto;
-     font-size: 1.8em;
-     color:green;
+     margin: 0 auto;
+     font-size: 1.7em;
+     color: green;
  }
 
  .days {
@@ -96,5 +94,5 @@ span {
 }
 
 .grey {
-    color:lightgrey;
+    color: lightgrey;
 }
